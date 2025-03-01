@@ -28,6 +28,9 @@ A **FastAPI** backend for managing workout schedules. This API allows **multiple
 | `GET`  | `/workouts/{id}`   | Get a workout by ID       | ✅ Yes       |
 | `POST` | `/workouts/`       | Create a new workout      | ✅ Yes       |
 |`DELETE`| `/workouts/{id}`   | Delete a workout by ID    | ✅ Yes       |
+| `GET`  | `/routines/`       | Get all routines          | ✅ Yes       |
+| `POST` | `/routines/`       | Create a new routine      | ✅ Yes       |
+|`DELETE`| `/routines/{id}`   | Delete a routine by ID    | ✅ Yes       |
 
 ## 🔧 Installation & Setup
 
