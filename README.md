@@ -1,6 +1,8 @@
 # 🏋️ FastAPI Workout Scheduler API
 
 A **FastAPI** backend for managing workout schedules. This API allows **multiple users** to **create, read, and delete** workout schedules securely using authentication.
+![alt text](swagger.png)
+
 
 ## 🚀 Features
 
